@@ -5,32 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aman Blogs</title>
     <style>
-        body{
+        body {
             font-family: Arial, Helvetica, sans-serif;
             background-color: #333;
             color: #fff;
-          }
-          .btn{
+        }
+        .btn {
             padding: 10px 15px;
             border-radius: 10px;
             border: none;
             outline: none;
             margin: 10px;  
             cursor: pointer;
-          }
-          input{
+        }
+        input {
             display: block;
-          }
-
-          .name{
+        }
+        .name {
             padding: 10px 15px;
             border-radius: 10px;
             border: none;
             outline: none;
             margin: 10px;
-          }
-
-          .blog{
+        }
+        .blog {
             padding: 10px 15px;
             border-radius: 10px;
             border: none;
@@ -38,12 +36,10 @@
             margin: 10px;
             width: 60%;
             height: 100px;
-          }
-
-          h1{
+        }
+        h1 {
             text-align: center;
-          }
-
+        }
     </style>
 </head>
 <body>
